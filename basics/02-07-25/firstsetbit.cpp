@@ -1,3 +1,5 @@
+// Find the least significant bit(basically the first rightmost bit(0 Or 1))
+
 #include <iostream>
 using namespace std;
 int main()
@@ -19,3 +21,5 @@ int main()
 
     return 0;
 }
+
+
